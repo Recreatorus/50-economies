@@ -3,6 +3,6 @@ Just four countries — the U.S., China, Japan, and Germany — make up over hal
 
 In this visualization we look at GDP by country in 2021, using data and estimates from the International Monetary Fund (IMF).
 
-[Top 50 economies in the world in 2021](https://recreatorus.github.io/50-economies/index.html 'watch demo')
+[50 largest countries by GDP in 2021](https://recreatorus.github.io/50-economies/index.html 'watch demo')
 
 ![scan](50-economies.jpg)
